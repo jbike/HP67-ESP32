@@ -35,9 +35,9 @@ Modifications required:
 
 - Be sure the traces are cut between keyboard and display, they are separate in this implementation
 
--Remove card reader
+- Remove card reader
 
--Remove top portion of circuit board support for wiring access. Do not remove the portion supporting the keyboard and switches.
+- Remove top portion of circuit board support for wiring access. Do not remove the portion supporting the keyboard and switches.
 ---------------------------------------
 ---------------------------------------
 To do:
