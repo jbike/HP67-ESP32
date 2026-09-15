@@ -1,8 +1,8 @@
 Modify HP67 Calculator to use new electronics
 
 HP-67 ESP32 Retrofit
-
-
+----------------------------------
+----------------------------------
 Hardware:
 
 - ESP32 WROOM
@@ -18,8 +18,8 @@ Hardware:
 - Vape battery w/ charging system
 
 - DC DC battery to 5v converter
-
-
+------------------------------------
+------------------------------------
 Current status:
 
 - Trig functions working
@@ -29,8 +29,8 @@ Current status:
 - R/S working
 
 - Calculator works as original
-
-
+------------------------------------
+------------------------------------
 Modifications required: 
 
 - Be sure the traces are cut between keyboard and display, they are separate in this implementation
@@ -38,8 +38,8 @@ Modifications required:
 -Remove card reader
 
 -Remove top portion of circuit board support for wiring access. Do not remove the portion supporting the keyboard and switches.
-
-
+---------------------------------------
+---------------------------------------
 To do:
 
 - Improve battery system
